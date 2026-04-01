@@ -18,7 +18,13 @@ The goal of this research is to bridge the gap between deep learning and biologi
 - [x] **Deep Learning Pipeline**: End-to-end training script for neuronal response modeling.
 - [x] **Visualization**: Generation of MEIs to interpret model "preferences."
 - [x] **Comparative Analysis**: Discussion on how predictive accuracy changes across different cortical regions.
----
+
+## 👥 Authors
+* Agnese Adorante
+* Martina Del Gaudio
+* Tommaso Giacomello
+* Kristian Gjika
+* Clara Montemurro
 
 ### Bibliography
 [1] W. et al, “Inception loops discover what excites neurons most using deep predictive models”, Nature Neuroscience, 2019.
