@@ -18,13 +18,8 @@ The goal of this research is to bridge the gap between deep learning and biologi
 - [x] **Deep Learning Pipeline**: End-to-end training script for neuronal response modeling.
 - [x] **Visualization**: Generation of MEIs to interpret model "preferences."
 - [x] **Comparative Analysis**: Discussion on how predictive accuracy changes across different cortical regions.
-
-## 📂 File Structure
-* `Notebook_Group9_NeuroScience.html`: The full analysis, code, and visualizations for the project.
-* `data/`: (If applicable) Directory for the neuroscience datasets.
-* `src/`: Source code for the CNN architecture and MEI generation.
-
 ---
 
 ### Bibliography
-Group 9. (2024). *Predicting Visual Cortex Responses with Deep Learning*. [Notebook_Group9_NeuroScience.html].
+[1] W. et al, “Inception loops discover what excites neurons most using deep predictive models”, Nature Neuroscience, 2019.
+[2] https://allensdk.readthedocs.io/en/latest/index.html
